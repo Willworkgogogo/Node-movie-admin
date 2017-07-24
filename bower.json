@@ -1,0 +1,17 @@
+{
+  "name": "ls",
+  "description": "使用node + express + jade + mogodb + bootstrap 搭建一个movie前后台站点。",
+  "main": "index.js",
+  "authors": [
+    "wangweiwei <will_workhard@163.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Willworkgogogo/Node-movie-admin",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

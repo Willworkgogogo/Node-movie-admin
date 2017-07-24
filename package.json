@@ -1,0 +1,26 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "使用node + express + jade + mogodb + bootstrap 搭建一个movie前后台站点。",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "express": "^4.15.3",
+    "jade": "^1.11.0",
+    "mongoose": "^4.11.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Willworkgogogo/Node-movie-admin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Willworkgogogo/Node-movie-admin/issues"
+  },
+  "homepage": "https://github.com/Willworkgogogo/Node-movie-admin#readme"
+}
